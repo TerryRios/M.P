@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\battlecanvas.cs">
+    <Files>
+      <File FileName="Assets\script\movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rpg scripts\Gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\engineScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\DialogueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\DialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\battlecanvas.cs" Line="65" Column="35" />
+      <File FileName="Assets\script\SoundLibrary.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rpg scripts\characterpanelstats.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rpg scripts\HeroStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rpg scripts\battlestatemachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\data_test.cs" Line="1" Column="1" />
+      <File FileName="Assets\map_tiles_v.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rpg scripts\EnemyStateMachine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

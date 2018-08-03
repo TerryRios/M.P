@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1586493545707848}
+  m_IsPrefabParent: 1
+--- !u!1 &1586493545707848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4379845737595188}
+  - component: {fileID: 114384397604506656}
+  - component: {fileID: 114999893327117288}
+  m_Layer: 0
+  m_Name: BattleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4379845737595188
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1586493545707848}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.094328, y: -1.250054, z: 8.714447}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114384397604506656
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1586493545707848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19e8239468308654c8940ecf2bebb4fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battlestates: 0
+  PerformList: []
+  charactersinBattle: []
+  enemysinBattle: []
+  characterInput: 0
+  charactersToManage: []
+  enemyButton: {fileID: 1121989808809174, guid: cdededa04fbb4124a91aa164df6d5b95,
+    type: 2}
+  Spacer: {fileID: 0}
+  attackPanel: {fileID: 0}
+  EnemySelect: {fileID: 0}
+  SkillsPanel: {fileID: 0}
+  actionSpacer: {fileID: 0}
+  Skillspacer: {fileID: 0}
+  actionButton: {fileID: 1676090385436530, guid: 44566a9140fa02545a19690cd40ade9a,
+    type: 2}
+  skillButton: {fileID: 1476323748118676, guid: c14db7538bdd44a45be6b5c0fc1d5b5d,
+    type: 2}
+--- !u!114 &114999893327117288
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1586493545707848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9da9fc97643b5e2439c76d2e983e0471, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

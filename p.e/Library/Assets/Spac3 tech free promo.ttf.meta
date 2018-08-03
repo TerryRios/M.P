@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3e44afa32ec76254aad62dc11063b682
+timeCreated: 1531444502
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spac3 tech
+  fontNames:
+  - Spac3 tech
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
